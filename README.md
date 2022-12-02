@@ -20,9 +20,10 @@ Online Judge Code :
 7. LC - LeetCode (https://leetcode.com/)
 8. LOJ - LightOJ (https://lightoj.com/)
 9. SPOJ - Sphere Online Judge (https://www.spoj.com/)
-10. TLX - TLX TOKI Website (https://tlx.toki.id/)
-11. URAL - Timus Online Judge (https://acm.timus.ru/)
-12. UVa - UVa Online Judge (https://onlinejudge.org/)
+10. TC - Topcoder (https://www.topcoder.com/)
+11. TLX - TLX TOKI Website (https://tlx.toki.id/)
+12. URAL - Timus Online Judge (https://acm.timus.ru/)
+13. UVa - UVa Online Judge (https://onlinejudge.org/)
 
 > CodeChef Problems don't have prefix just it's problem ID and problem name.
 > CSES Problems don't have problem ID.

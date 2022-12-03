@@ -6,7 +6,7 @@ Some of the later code have header containing explanation of my approach to the 
 
 The file will be named mostly as follow :
 (Online Judge Code)(Problem ID)_(Problem Name)_(Notes).(Extension)
-Example : CF486C_PalindromeTransfromation.cpp
+Example : ABC251C_PoemJudgeOnline.cpp
 
 > Sometime the notes is just number indicating another approach, or something like BIT (Means using binary indexed tree)
 

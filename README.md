@@ -25,7 +25,9 @@ Online Judge Code :
 12. URAL - Timus Online Judge (https://acm.timus.ru/)
 13. UVa - UVa Online Judge (https://onlinejudge.org/)
 
-> CodeChef Problems don't have prefix just it's problem ID and problem name.
+Note :
+> CodeChef Problems only have problem ID.
+> Codeforces Problems don't have prefix.
 > CSES Problems don't have problem ID.
 
 At last, I hope this archives may help you.
